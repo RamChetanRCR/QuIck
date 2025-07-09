@@ -1,4 +1,4 @@
-# quick
+# QuIck
 
 A new Flutter project.
 
